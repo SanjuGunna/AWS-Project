@@ -1,0 +1,3 @@
+meta.lastUpdated,name.0.use,text.div,identifier.0.system,resourceType,gender,telecom.0.system,identifier.0.type.coding.0.code,address.0.line.0,name.0.given.0,birthDate,id,identifier.0.value,name.0.family,telecom.0.value,text.status,managingOrganization.reference,active,address.0.use,identifier.0.type.coding.0.system,telecom.0.use
+2012-05-29T23:45:32Z,official,"<div xmlns=""http://www.w3.org/1999/xhtml"">Everywoman, Eve. SSN:
+            444222222</div>",http://hl7.org/fhir/sid/us-ssn,Patient,female,phone,SS,2222 Home Street,Eve,1973-05-31,1,444222222,Everywoman,555-555-2003,generated,Organization/hl7,True,home,http://hl7.org/fhir/v2/0203,work
